@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042497418554",
+    "firebase_url": "https://myGuardRonde-5e57e-default-rtdb.firebaseio.com",
+    "project_id": "myGuardRonde-5e57e",
+    "storage_bucket": "myGuardRonde-5e57e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042497418554:android:a94dd98cf8ee848b49cc03",
+        "android_client_info": {
+          "package_name": "com.guardRonde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042497418554-iqgktr68lsc2rfniuli7nrlbksbi7e9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guardRonde",
+            "certificate_hash": "1d25f92e85be5f68135fd7470309da397c70ceee"
+          }
+        },
+        {
+          "client_id": "1042497418554-5m5bcnsor1u8sp4t1cbs1f6md8q7bj2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KBtnMAYw15vHKTw4OsTopPTlCZQTprM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042497418554-5m5bcnsor1u8sp4t1cbs1f6md8q7bj2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042497418554-ch7jd5as955begiu5kvgkusa6b2mb4en.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.guardRonde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
